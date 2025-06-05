@@ -6,7 +6,7 @@ created_at: "2025-06-05"
 ---
 
 
-#June 5: research into cartpole!
+### June 5: research into cartpole!
 The main motivation for this project comes from wanting to bring RL into the physical world. I've trained in simulations before, but I want to build a desktop model.
 
 Did a lot of research into parts, how motors work, stepper vs servo vs brushless (still a bit confused, this is my first real hardware project.)
