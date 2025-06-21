@@ -35,3 +35,8 @@ I've decided to go with something simpler instead of the cart pole because I thi
 
 **Total time: 1 + 1 = 2 hrs**
 
+
+## June 21: CAD
+
+Parts have arrived! Begin measuring dimensions and sketching parts. 
+
