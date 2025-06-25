@@ -39,4 +39,10 @@ I've decided to go with something simpler instead of the cart pole because I thi
 ## June 21: CAD
 
 Parts have arrived! Begin measuring dimensions and sketching parts. 
+CAD'd pendulum, motor mount.
+![image](https://github.com/user-attachments/assets/6bdaacf3-0c9f-417a-a4c2-4c53c0c8cd82)
+Finished 3d printing, mounting ball bearings. Forgot to add tolerances the first time .....
 
+Prepare to connect pins, also soldered header pins onto XIAO.
+
+**Total time: 1 + 1 + 3 = 5 hr**
